@@ -1,5 +1,5 @@
 
-# Command & Conquer Generals (inc. Zero Hour) Source Code - test
+# Command & Conquer Generals (inc. Zero Hour) Source Code - test2
 
 This repository includes source code for Command & Conquer Generals, and its expansion pack Zero Hour. This release provides support to the Steam Workshop for both games ([C&C Generals](https://steamcommunity.com/workshop/browse/?appid=2229870) and [C&C Generals - Zero Hour](https://steamcommunity.com/workshop/browse/?appid=2732960)).
 
